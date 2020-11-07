@@ -1,0 +1,5 @@
+pane	s1	0	:bash	0	:-	0	:/home/vbird	1	bash	:
+pane	s1	1	:bash	1	:*	0	:/home/vbird	1	bash	:
+window	s1	0	0	:-	c4fe,147x36,0,0,1
+window	s1	1	1	:*	c503,147x36,0,0,6
+state	s1	

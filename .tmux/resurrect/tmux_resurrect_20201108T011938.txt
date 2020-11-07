@@ -1,0 +1,12 @@
+pane	0	0	:bash	1	:*	0	:/home/vbird	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vbird	0	bash	:
+pane	1	0	:bash	1	:*	0	:/home/vbird	1	bash	:
+pane	3	0	:bash	1	:*	0	:/home/vbird	1	bash	:
+pane	s1	0	:bash	0	:-	0	:/home/vbird	1	bash	:
+pane	s1	1	:bash	1	:*	0	:/home/vbird	1	bash	:
+window	0	0	1	:*	793c,147x36,0,0{73x36,0,0,8,73x36,74,0,9}
+window	1	0	1	:*	c500,147x36,0,0,3
+window	3	0	1	:*	c504,147x36,0,0,7
+window	s1	0	0	:-	c4fe,147x36,0,0,1
+window	s1	1	1	:*	c503,147x36,0,0,6
+state	s1	0

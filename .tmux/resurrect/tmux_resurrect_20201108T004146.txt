@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/vbird	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vbird	1	bash	:
+window	0	0	1	:*	7918,147x36,0,0{73x36,0,0,0,73x36,74,0,1}
+state	0	

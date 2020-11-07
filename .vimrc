@@ -31,6 +31,7 @@ set go=a "添加a是实现了选中即复制的功能a的意思是在可视及�
 set go+=r 
 set go+=e 
 "set mouse=nvi
+set mouse+=a
 "set selectmode+=mouse
 
 "set clipboard=unnamedplus
@@ -67,6 +68,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'vim-python/python-syntax'
 "Plug 'vim-ruby/vim-ruby'
 Plug 'wgwoods/vim-systemd-syntax'
+Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
 "========================================================================
 

@@ -1,0 +1,500 @@
+while true do sleep 1; du -sh *; done
+while true do sleep 1; du -sh *; done
+while true do sleep 1; du -sh *;done
+while [ 1 ]  do sleep 1; du -sh *;done
+while [ 1 ]  do sleep 1;du -sh *;done
+vi aa
+sh aa
+while [ 1 ];do du -sm *; sleep 1; done
+cd
+ls
+pwd
+ls
+cd bin
+ls
+cd conf_files/
+ls
+mv /mnt/d/desktop/inbox/CentOS7-Base-163.repo .
+ls
+git add .
+git commit -m "yum 163 repo config file"
+git push
+EPOper.put(dtaInfo.getTpId(), "__GDTA_FORMAT[0].__GDTA_ITEMDATA", desJsonByte);
+EPOper.put(dtaInfo.getTpId(), "__GDTA_FORMAT[0].__ITEMDATA", desJsonByte);
+EPOper.put(dtaInfo.getTpId(), "__GDTA_FORMAT[0].__GDTA_ITEMDATA_LENGTH", desJsonByte.length);
+du -sh *
+du -sh * 2>/dev/null
+cd Users/
+du -sh * 2>/dev/null
+cd 70492/
+ls
+du -sh * 2>/dev/null
+cd App
+cd AppData/
+ls
+du -sh * 2>/dev/null
+cd Local
+du -sh * 2>/dev/null
+cd Package
+cd Packages/
+ls
+du -sh * 2>/dev/null
+man vim
+ls -a
+vim -b Stack.class
+man vim
+vim -b Stack.class
+xxd -help
+xxd -v
+man xxd
+LS
+ls
+su -sh *
+du -sh *
+cd 4
+cd 4.项目管理/
+ls
+du -sh *
+cd 3.开发/
+ls
+du -sh *
+cd 北京事业群
+ls
+du -sh *
+cd 雄安智慧政务 
+du -sh *
+du -sh *
+cd
+vi .bash_profile 
+echo $PS1
+vi .bash_profile 
+ls
+man PS1
+vi .bash_profile 
+. .bash_profile 
+ls
+pwd
+vi .bash_profile 
+. .bash_profile 
+ls
+cd bin
+ls
+ls
+cd conf_files/
+ls
+cd
+vi .bash_profile 
+. .bash_profile 
+ls
+ls
+vi .bash_profile 
+. .bash_profile 
+ls
+sudo useradd test1
+sudo passwd test1
+su - test1
+man useradd
+ls /home
+man userdel
+sudo userdel test1
+sudo useradd test1 -d /home/test1
+passwd test1
+sudo passwd test1
+su - test1
+ls
+ls
+sudo userdel -f test1
+man userdel
+man useradd
+sudo mkdir /home/test1
+sudo useradd test1 -d /home/test1
+su - test1
+sudo passwd test1
+su - test1
+ls
+sudo vi /etc/sudoers
+su - test1
+su - test1
+su - test1
+ls
+ls
+vi .bash_profile 
+mkdir dotfiles
+ls
+ls
+cd dotfiles/
+ls
+git init 
+git status
+git remote add origin git@github.com:wch369/dotfiles.git
+ls
+mv ~/.bash_profile .
+ls
+cd
+ls
+ls
+ls -a
+ln -s /home/vbird/dotfiles/.bash_profile /home/vbird/.bash_profile
+l
+ls -la
+vi .bash_profile 
+ls
+ls -a
+ls
+cd dotfiles/
+ls
+vi .bash_profile .
+vi .bash_profile 
+cd
+vi .bash_profile 
+. .bash_profile 
+ls
+vi .bash_profile 
+. .bash_profile 
+cd dotfiles/
+ls
+git add .
+git status
+git commit -m "add .bash_profile"
+git push -u origin 
+LS
+git branch -M main
+git push -u origin
+git push -u origin main
+ls
+git status
+git branch
+git branch -l
+ls
+git branch master
+git branch
+ls
+ls -a
+ls
+git branch -d master
+ls
+git status
+ls
+vi README.md
+git add README.md 
+git commit -m "add README file"
+git status
+git push 
+ls
+cd ..
+ls
+ls -a
+vi .vimrc
+vm .vim dotfiles/
+mv .vim dotfiles/
+mv .vimrc dotfiles/
+mv .viminfo dotfiles/
+ln -s /home/vbird/dotfiles/.vim /home/vbird/.vim
+ln -s /home/vbird/dotfiles/.vimrc /home/vbird/.vimrc
+ln -s /home/vbird/dotfiles/.viminfo /home/vbird/.viminfo
+ls
+ls -a
+cd .vim
+ls
+cd autoload/
+ls
+vi plug.vim 
+ls
+cd ..
+ls
+cd plugged/
+ls
+cd 
+ls
+cd dotfiles/
+ls
+git add .
+git commit -m "add vim files"
+git push
+vi aa
+cd
+ls
+ls
+cd vim-plug/
+ls
+vi plug.
+vi plug.vim 
+ls
+cd ..
+ls
+ls
+cd vimwiki/
+ls
+vi index.wiki 
+vim
+ls
+cd
+ls
+rm vimplugs.tar 
+ls
+rm -rf vim-plug/
+ls
+ls
+vi aa 
+rm aa 
+rm aa
+man chattr
+ls
+chattr -R +a dotfiles
+ls
+mkdir temp
+ls
+ls
+cd tem
+cd temp/
+ls
+chatt +a aaa.log 
+chattr +a aaa.log 
+rm aaa.log 
+ls
+chattr: Inappropriate ioctl for device while reading flags on dotfiles
+ls
+ls
+vi aa
+ls
+chattr +i aa
+cd ..
+ls
+ls
+ls
+ls -a
+ls
+mkdir .dotfiles
+cd .dotfiles/
+ls
+git clone  git@github.com:wch369/dotfiles.git
+ls
+cd dotfiles/
+ls
+ls
+ls a
+la -a
+ls -a
+cd ..
+ls
+rm dotfiles/
+rm -rf dotfiles/
+ls
+git clone --hlep
+git clone --help
+g
+git clone  git@github.com:wch369/dotfiles.git .
+ls
+ls -a
+ls
+rm -rf *
+ls
+man cp
+ls
+cp ~/dotfiles/* .
+ls -a
+rm -rf *
+ls
+ls -a
+man rm
+rm -rf .*
+ls -a
+ls
+ls -a
+cp ~/dotfiles/* .
+ls -a
+ls
+cp ~/dotfiles/.* .
+ls
+ls -a
+cp -r ~/dotfiles/.* .
+ls
+ls -a
+ls
+ls -a
+cd
+ls
+cd dotfiles/
+ls
+ls -a
+man cp 
+cd 
+cd .dotfiles/
+ls
+cd temp/
+ls
+cd ..
+ls
+rm -rf *
+ls
+ls -a
+rm -rf ..*
+ls
+ls a
+ls -a
+rm -f .*
+ls
+ls
+rm -rf .*
+ls
+ls -a
+rm -rf .vim
+ls
+ls
+ls -a
+cd ..
+ls
+cd
+rmdir .dotfiles/
+ls
+ls -a
+mv dotfiles .dotfiles
+ls
+ls -a
+ls -a
+ls -lrta
+vi .bash_profile 
+mv .dotfiles dotfiles
+man mv
+rename
+mv dotfiles .dotfiles
+ls -a
+ls -al
+ln -s /home/vbird/.dotfiles/.bash_profile /home/vbird/.bash_profile 
+vi .bash_profile 
+rm .bash_profile 
+ln -s /home/vbird/.dotfiles/.bash_profile /home/vbird/.bash_profile 
+vi .bash_profile 
+rm .vim
+ln -s /home/vbird/.dotfiles/.vim /home/vbird/.vim
+vi aa
+ls -a
+ls -al
+rm .vimrc 
+ln -s /home/vbird/.dotfiles/.vimrc /home/vbird/.vimrc
+vi aa
+ls -alt
+vi .gitconfig
+mv .gitconfig .gitconfig
+mv .gitconfig .dotfiles/
+vi .gitconfigyCc 
+ln -s /home/vbird/.dotfiles/.gitconfig /home/vbird/.vimrc
+ln -s /home/vbird/.dotfiles/.gitconfig /home/vbird/.gitconfig
+ls -a
+ls -al
+vi .gitconfig
+cd .dotfiles/
+ls
+vi .gitconfig 
+ls
+ls -art
+vi .gitconfig 
+git config --global list
+git config --global 
+git config --global  -l
+ls
+pwd
+git add .
+git status
+git commit -m "add user git config file"
+git push
+git status
+cd .vim/plugged/
+ls
+cd python-syntax/
+ls
+ls -a
+git status
+cd
+ls
+cd .dotfiles/
+ls
+git status
+git checkout -- .vim/plugged/python-syntax
+git status
+cd .vim/
+ls
+ls -a
+cd plugged/
+ls
+ls -a
+cd python-syntax/
+ls
+ls -a
+git status
+cd doc/ls
+cd doc/
+ls
+git status
+vi tags 
+git update-index  -help
+cd
+ls
+cd .dotfiles/
+ls
+ls
+ls -a
+git status
+vi .gitignore
+git status
+cd .vim/plugged/python-syntax/
+git status
+git checkout -- doc/tags
+cd doc/
+ls
+rm tags 
+rm tags 
+cd ..
+git status
+cd
+cd .dotfiles/
+ls
+git status
+cd
+cd -
+ls
+git status
+rm .gitignore 
+ls
+vi .gitignore 
+git status
+git add .
+git status
+git commit -m "add .gitignore file"
+git push
+ls
+vi aa
+git remote get-url 
+git remote get-url  --push origin
+exit
+exit
+exit
+tmux detach
+exit
+exit
+exit
+exit
+source ~/.tmux.conf 
+exit
+11
+detach
+exit
+exit
+exit
+exit
+exit
+ls
+vi tak.cpio
+vi bak.cpio 
+ history -w '/home/vbird/.tmux/resurrect/bash_history-0:0.1'
+exit
+ history -w '/home/vbird/.tmux/resurrect/bash_history-0:0.0'
+exit
+ history -w '/home/vbird/.tmux/resurrect/bash_history-0:0.1'
+kk
+1
+exit
+ history -w '/home/vbird/.tmux/resurrect/bash_history-0:0.1'
+exit
+ history -w '/home/vbird/.tmux/resurrect/bash_history-3:0.0'
+ history -w '/home/vbird/.tmux/resurrect/bash_history-3:0.0'

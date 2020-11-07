@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file .
+[user]
+# Please adapt and uncomment the following lines:
+#	name = 
+#	email = vbird@DESKTOP-U4IFMN8.localdomain
+[user]
+	name = wangchong
+	email = wangchong@mail.com
+[core]
+	editor = vim
+[http]
+	proxy = socks://127.0.0.1:1080
+[https]
+	proxy = socks://127.0.0.1:1080
+[http "http://github.com"]
+[https "https://github.com"]

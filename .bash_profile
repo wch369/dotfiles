@@ -5,6 +5,7 @@ alias ls='ls --color=auto'
 alias rm='rm -i'
 alias e.='explorer.exe .'
 alias wiki='vim -c "VimwikiIndex"'
+alias cdg='cd /mnt/e/git_repos'
 
 PS1='\u:\w>>'
 export PS1
